@@ -4,3 +4,5 @@ Feature B implemented
 Minor improvement
 This change was added via a Pull Request.
 Second update to demonstrate PR auto-update.
+Project Title: Team Workflow Demo
+Description: This project demonstrates GitHub Pull Request workflow.
